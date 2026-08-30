@@ -74,9 +74,7 @@ export default function Examples() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.headerContainer}>
-        <Text style={styles.header}>Example Posts</Text>
-        {/* If using Expo Router, you can link back to home like this: */}
-        {/* <Link href="/" style={styles.link}>Back to Home</Link> */}
+        <Text style={styles.header}>For You</Text>
       </View>
 
       <FlatList

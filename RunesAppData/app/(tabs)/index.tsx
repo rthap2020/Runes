@@ -94,7 +94,7 @@ export default function Index() {
         style={styles.container}
         behavior={Platform.OS === "ios" ? "padding" : undefined}
       >
-        <Text style={styles.header}>SimpleSocial</Text>
+        <Text style={styles.header}>Runes</Text>
 
         {/* Create Post Form */}
         <View style={styles.formContainer}>
