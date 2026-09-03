@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "author": "Alice",
+      "content": "Just setting up my new React Native profile!",
+      "timestamp": 1690000000000,
+      "likes": 2
+    },
+    {
+      "id": "2",
+      "author": "Bob",
+      "content": "Does anyone know a good Expo tutorial?",
+      "timestamp": 1690000050000,
+      "likes": 0
+    }
+  ],
+  "profile": {
+    "name": "Rohan Developer",
+    "username": "rohan_dev",
+    "avatarUrl": "https://ui-avatars.com/api/?name=Rohan+Developer",
+    "followers": 128,
+    "following": 42
+  }
+}
