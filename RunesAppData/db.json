@@ -13,6 +13,13 @@
       "content": "Does anyone know a good Expo tutorial?",
       "timestamp": 1690000050000,
       "likes": 0
+    },
+    {
+      "id": "k87gQjYG2Uc",
+      "author": "Broski",
+      "content": "I'm not a hacker for real, don't worry.",
+      "timestamp": 1788461755124,
+      "likes": 0
     }
   ],
   "profile": {
@@ -21,5 +28,6 @@
     "avatarUrl": "https://ui-avatars.com/api/?name=Rohan+Developer",
     "followers": 128,
     "following": 42
-  }
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }
